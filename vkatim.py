@@ -6,3 +6,4 @@ print("Вася Пупкин")
 a =3 
 b =3
 print(a+b)
+print('Pasha, privet')
